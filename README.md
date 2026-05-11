@@ -8,7 +8,7 @@ If you're here that likely means one of three things has happened:
 - You're stalking me on LinkedIn
 - You've stumbled across this profile by mistake
 
-For those of you in the first group (or who are just nosey!) read on to learn more about me, and whether I might be a good fit for you and your team!
+For those of you in the first group (or who are just nosey!) read on to learn more about me, what I do, and whether I might be a good fit for you and your team!
 
 ## About Me
 
