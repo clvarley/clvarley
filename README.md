@@ -1,18 +1,18 @@
-# Hey, Bonjour, Hola!
+# 👋 Hey, Bonjour, Hola, Welcome!
 
-👋 Welcome!
+[![My skills: PHP, TypeScript, HTML, CSS, Symfony, Laravel, and VueJS](https://skillicons.dev/icons?i=php,typescript,html,css,symfony,laravel,vue&theme=light)](https://skillicons.dev)
 
 If you're here that likely means one of three things has happened:
 
-- I've recently sent you my CV (please hire me!)
+- I've recently sent you my CV
 - You're stalking me on LinkedIn
 - You've stumbled across this profile by mistake
 
-Read on to learn more about me and whether I might be a good fit for you and your team!
-
-For anyone looking to contact me, the best places are either LinkedIn, through my limited company [High Orbit](https://highorbit.co.uk/), or by shooting me an email.
+For those of you in the first group (or who are just nosey!) read on to learn more about me, and whether I might be a good fit for you and your team!
 
 ## About Me
+
+
 
 The basics
 
