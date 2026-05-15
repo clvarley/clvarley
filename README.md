@@ -12,9 +12,10 @@ For those of you in the first group (or who are just nosey!) read on to learn mo
 
 ## About Me
 
+🏗️ Under Construction  
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
-
-The basics
+Check back here later when I've finished writing this :)
 
 ## My Career
 ### 🕹️ NetworkN Media
@@ -32,11 +33,13 @@ The basics
 ### 🔮 Media Orb
 > July 2018 - August 2019
 
+<!--
 ### 😉 Your Company Here...?
 
 I've you're still reading that must be a good sign!
 
 If you've liked what you've seen so far, and are interested in working with me, you can shoot me a message via LinkedIn or use the contact form on 
+-->
 
 ## Other Projects
 ### 🕊️ Swiftly
